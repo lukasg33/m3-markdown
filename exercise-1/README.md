@@ -6,5 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
->You miss all the shots you don't take'
+>You miss all the shots you don't take
+
 (http://www.brainyquote.com/quotes/quotes/w/waynegretz378694.html)
