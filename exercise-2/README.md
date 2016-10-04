@@ -5,3 +5,5 @@ As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should
 In the space below, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+**info 201** _Technical founations of informatics_ | **acctg 225** _managerial accounting_ | **lsj 376** _Drugs and society_ 
