@@ -9,3 +9,10 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+#rm 
+
+`rm filename.file`
+
+- removed specified file
+    - Warning removes file forever
